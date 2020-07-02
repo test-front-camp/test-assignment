@@ -1,0 +1,25 @@
+{
+  "name": "test-assignment",
+  "version": "1.0.0",
+  "description": "Необходимо написать функцию, которая суммирует два числа",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/test-front-camp/test-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/test-front-camp/test-assignment/issues"
+  },
+  "homepage": "https://github.com/test-front-camp/test-assignment#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "babel-jest": "^26.0.1",
+    "jest": "^26.0.1"
+  }
+}
